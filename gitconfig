@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = auroregosset.pro@gmail.com
+	name = Aurore Gosset
